@@ -1,0 +1,15 @@
+D:\practise\OneStop\Business\bin\Debug\net6.0\Business.deps.json
+D:\practise\OneStop\Business\bin\Debug\net6.0\Business.dll
+D:\practise\OneStop\Business\bin\Debug\net6.0\Business.pdb
+D:\practise\OneStop\Business\bin\Debug\net6.0\DataAccess.dll
+D:\practise\OneStop\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.dll
+D:\practise\OneStop\Business\obj\Debug\net6.0\refint\Business.dll
+D:\practise\OneStop\Business\obj\Debug\net6.0\Business.pdb
+D:\practise\OneStop\Business\obj\Debug\net6.0\ref\Business.dll

@@ -1,0 +1,12 @@
+D:\practise\OneStop\DBAcces\bin\Debug\net6.0\DataAccess.deps.json
+D:\practise\OneStop\DBAcces\bin\Debug\net6.0\DataAccess.dll
+D:\practise\OneStop\DBAcces\bin\Debug\net6.0\DataAccess.pdb
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\DataAccess.dll
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\refint\DataAccess.dll
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\DataAccess.pdb
+D:\practise\OneStop\DBAcces\obj\Debug\net6.0\ref\DataAccess.dll
